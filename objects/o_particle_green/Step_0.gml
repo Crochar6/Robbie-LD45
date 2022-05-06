@@ -1,0 +1,3 @@
+hspeed = Approach(hspeed, 0, fric);
+image_alpha -= 0.008;
+if (image_alpha <= 0) instance_destroy();
